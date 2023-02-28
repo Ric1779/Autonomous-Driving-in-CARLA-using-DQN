@@ -41,5 +41,8 @@ $ python -m __main__.py --agent car-rgb-1 --mode train
 $ python -m __main__.py --agent car-rgb-1 --mode simulate
 ```
 
-### Pong-V0 (`--agent car-lidar-1`)
+### Car-LIDAR-1 (`--agent car-lidar-1`)
 > In-progress
+
+
+### This directory should be inside CARLA/PythonAPI/examples/
